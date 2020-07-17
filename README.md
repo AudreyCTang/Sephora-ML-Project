@@ -30,5 +30,5 @@ Tree-based Models:
 
 ### Relevant Links:
 - [Complete Medium workthrough] 
-- [Tableau profile for visualization] https://public.tableau.com/profile/audrey.tang6452#!/
+- [Tableau profile for visualization]https://public.tableau.com/profile/audrey.tang6452#!/
 ```
