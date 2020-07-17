@@ -1,4 +1,4 @@
-# 
+# End-to-End Machine Learning Project with Sephora Data
 
 ### Problem Statement:
 How does the popularity of a skincare product change with the product's information (skin concern, skin type, price, etc)?
