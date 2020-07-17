@@ -15,6 +15,8 @@ For consumers, we can build interactive visualization tools from the a large dat
 - Numpy
 - Selenium
 - Beautiful Soup
+- Matplotlib
+- Seaborn
 - SciPy
 - Scikit-learn
 
