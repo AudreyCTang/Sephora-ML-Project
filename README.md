@@ -21,11 +21,9 @@ For consumers, we can build interactive visualization tools from the a large dat
 - Scikit-learn
 
 ### Machine Learning Models Used:
-Distance-based Models:
 - Multiple Linear 
 - Lasso
 - Nearest Neighbor
-Tree-based Models:
 - Decision Tree
 - Random Forest
 - Gradient Boosting Regressor
