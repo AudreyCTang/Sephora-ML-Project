@@ -29,6 +29,6 @@ For consumers, we can build interactive visualization tools from the a large dat
 - Gradient Boosting Regressor
 
 ### Relevant Links:
-- [Complete Medium workthrough] 
+- [Medium profile for workthrough](https://medium.com/@audreytang_43893)
 - [Tableau profile for visualization](https://public.tableau.com/profile/audrey.tang6452#!/)
 ```
